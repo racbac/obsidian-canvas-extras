@@ -1,0 +1,11 @@
+{
+  "id": "obsidian-canvas-feats",
+  "name": "Canvas Extras",
+  "description": "Adds functionality to Obsidian&#39;s core Canvas plugin",
+  "author": "racbac",
+
+  "authorUrl": "https://github.com/racbac",
+
+  "minAppVersion": "0.11.0",
+  "version": "0.0.1"
+}
